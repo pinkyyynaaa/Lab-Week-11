@@ -1,12 +1,10 @@
 # 🎣 Phishing — Social Engineering Write-Up
 
-> **Course Exercise** | Social Engineering Module | UniKL MIIT  
-> **Platform:** [TryHackMe](https://tryhackme.com) — Phishing Emails 1  
-> **Author:** [Dannyz15](https://github.com/Dannyz15)
+> **Course Exercise** | Social Engineering Module |
 
 ---
 
-## 📖 What is Phishing?
+## What is Phishing?
 
 **Phishing** is a form of **social engineering** where an attacker sends fraudulent messages — typically emails — designed to trick individuals into revealing sensitive information, clicking malicious links, or downloading harmful attachments.
 
@@ -14,7 +12,7 @@ Phishing remains one of the most effective attack vectors in cybersecurity becau
 
 ---
 
-## 🎯 Types of Phishing
+## Types of Phishing
 
 | Type | Description |
 |---|---|
